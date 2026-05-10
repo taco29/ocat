@@ -1,2 +1,1 @@
-Chim
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=taco29)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=taco29)](https://git.io/streak-stats)
